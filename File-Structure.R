@@ -5,7 +5,7 @@
 {
 
 # choose a work directory
-mywd = "C:/Users/Nick Morris/Downloads"
+mywd = "C:/ ... /Downloads"
 setwd(mywd)
 
 # create a name for a .txt file to log progress information while parallel processing
